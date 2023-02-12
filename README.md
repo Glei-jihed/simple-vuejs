@@ -1,4 +1,4 @@
-# une simple application vuejs, sert à comprendre les bases de vuejs
+# une simple application vuejs, sert à comprendre les bases de vuejs.Vous trouvez les photos du projet dans le dossier youtube-pic
 
 ## Project setup
 ```
